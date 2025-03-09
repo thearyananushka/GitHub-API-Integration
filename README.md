@@ -1,7 +1,6 @@
 # GitHub-API-Integration
 
-# GitHub API for thearyananushka
-
+ GitHub API for thearyananushka
 This API provides information about the GitHub profile and repositories of **[thearyananushka](https://github.com/thearyananushka)**.
 
 # Endpoints:
